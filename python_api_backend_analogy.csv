@@ -1,0 +1,11 @@
+Lines,Code,Analogy,Explanation
+1-2,"from flask import Flask, jsonify, request, send_from_directory; from flask_cors import CORS",Hiring restaurant staff,Importing required backend tools
+4,app = Flask(__name__),Opening a new restaurant,Create Flask app
+5,CORS(app),Removing No Entry signs,Enable cross-origin requests
+8-11,users = [...],Starting with a small menu,Initial user data
+14-16,@app.route('/') ...,Host greeting customers,Serve frontend HTML
+19-21,GET /api/users,Waiter bringing food,Return all users
+24-30,GET /api/users/<id>,Specific dish request,Return one user or 404
+33-47,POST /api/users,Customer placing order,Add a new user
+50-55,DELETE /api/users/<id>,Removing dish from menu,Delete a user
+57-58,app.run(),Opening for business,Start server

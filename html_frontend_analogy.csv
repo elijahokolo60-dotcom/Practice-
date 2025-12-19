@@ -1,0 +1,16 @@
+Lines,Code,Analogy,Explanation
+1-8,HTML head & links,Dressing up for dinner,HTML structure and assets
+11-17,Header container,Entering restaurant lobby,Title and intro
+20-35,Add user form,Order form on table,Submit new users
+37-55,User list section,Menu display board,Show users
+58-73,API status,Kitchen window,API health check
+77-81,Response console,Receipt printer,Logs responses
+87-92,API base URL,Restaurant address,API endpoint
+95-97,DOMContentLoaded,Sitting at table,Init frontend
+100-120,checkAPIStatus(),Checking kitchen,Ping API
+123-153,loadUsers(),Asking waiter,Fetch users
+156-189,addUser(),Filling order slip,POST user
+192-206,getUserDetails(),Ask about dish,GET single user
+209-228,deleteUser(),Complaining about dish,DELETE user
+231-245,logResponse(),Keeping receipts,Log output
+248-266,showNotification(),Server announcements,Toast messages

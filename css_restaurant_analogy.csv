@@ -1,0 +1,15 @@
+Lines,Code,Analogy,Explanation
+1-8,Global styles,Restaurant theme,Base styling
+10-16,.container,Table arrangement,Layout width
+18-26,header,Restaurant signboard,Header style
+28-35,.dashboard,Restaurant layout,Grid layout
+37-47,.card,Table design,Card UI
+56-60,input styles,Order slip design,Form inputs
+62-79,buttons,Call buttons,Button styles
+81-86,icon buttons,Table gadgets,Icon actions
+88-106,user list,Menu shelf,User list display
+114-124,status indicator,Kitchen light,API status
+137-143,response console,Receipt display,Logs UI
+145-151,loading/error,Please wait signs,State indicators
+153-187,notifications,Waiter announcements,Toast animations
+189-195,media queries,Mobile seating,Responsive design
